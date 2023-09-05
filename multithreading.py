@@ -70,3 +70,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# A resposta do tutor Jonathan é que eu deveria refazer tudo isso e "entender" um código que NUNCA foi explicado.
